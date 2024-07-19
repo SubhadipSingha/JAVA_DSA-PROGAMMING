@@ -14,7 +14,8 @@ public class ReverseString {
            rev += word.charAt(i);
           
          }
-         System.out.println(rev);
+         System.out.println(rev.toLowerCase());
+         
     }
     
 }

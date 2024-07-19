@@ -14,6 +14,7 @@ public class ChanceCalculator {
         // int l1 = fname.length();
         // int l2 = lname.length();
         // int total = (l1+l2)*10;
+        
         int x=r.nextInt(100)+1;
         if(x>=90 && x<=100){
             System.out.println("NOW "+fname+" & "+lname+" YOU GUY'S HAS A CHANCE OF "+x+"% I THINK YOU GUY'S ARE ALREADY IN A RELATIONSHIP");
