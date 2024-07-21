@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AddDigit",
+            "request": "launch",
+            "mainClass": "STRINGS.AddDigit",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MinAvgOfSmallElement",
+            "request": "launch",
+            "mainClass": "ARRAYS.MinAvgOfSmallElement",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ThirdMaxNum",
+            "request": "launch",
+            "mainClass": "ARRAYS.ThirdMaxNum",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MissingNumber",
+            "request": "launch",
+            "mainClass": "ARRAYS.MissingNumber",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "LongestSubstring",
+            "request": "launch",
+            "mainClass": "STRINGS.LongestSubstring",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "RotateArray",
+            "request": "launch",
+            "mainClass": "ARRAYS.RotateArray",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SmallestRangeOfII",
+            "request": "launch",
+            "mainClass": "ARRAYS.SmallestRangeOfII",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SmallestRangeofI",
+            "request": "launch",
+            "mainClass": "ARRAYS.SmallestRangeofI",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "PowerOfXUponN",
+            "request": "launch",
+            "mainClass": "FUNCTIONS.PowerOfXUponN",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ChecksValidPerfectSquare",
+            "request": "launch",
+            "mainClass": "FUNCTIONS.ChecksValidPerfectSquare",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MaximumOcurrenceInTheArray",
+            "request": "launch",
+            "mainClass": "ARRAYS.MaximumOcurrenceInTheArray",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommonPrefix",
+            "request": "launch",
+            "mainClass": "STRINGS.LongestCommonPrefix",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
             "name": "Generics",
             "request": "launch",
             "mainClass": "FRAMEWORK_COLLECTION.Generics",

@@ -15,6 +15,7 @@ public class TWODArraylist {
         ArrayList<String> vegetables =new ArrayList<>();
         ArrayList<String> drinks =new ArrayList<>();
         ArrayList<Integer> All =new ArrayList<>(List.of(21,30,41,50,61,70,85));
+        
         packagefood.add("maggie");
         packagefood.add("kurkure"); 
         packagefood.add("soyabin");

@@ -7,7 +7,8 @@ public class Arraylist {
         //declearing a arraylist 
         ArrayList<String> food = new  ArrayList<String>();
          Scanner s=new Scanner(System.in);
-
+        ArrayList<Integer> nums=new ArrayList<Integer>();
+        
          System.out.println("ENTER THE NUMBER OF FOOD ITEMS YOU HAVE EATEN TODAY:");
          int n = s.nextInt();
          s.nextLine(); 

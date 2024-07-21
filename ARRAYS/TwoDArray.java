@@ -8,7 +8,7 @@ public class TwoDArray {
         System.out.println("ENTER THE DIMENSION OF THE 2D ARRAY:");
        int n = s.nextInt();
        int m = s.nextInt();
-        int [][] arr = new int[n][m];
+        int [][] arr = new int[m][n];
         System.out.println("ENTER THE ELEMENTS OF THE 2D ARRAY:");
         for (int i=0;i<n;i++){
             for(int j=0;j<m;j++){
@@ -19,6 +19,14 @@ public class TwoDArray {
         for (int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 System.out.print(" ["+arr[i][j]+"] ");
+            }
+            System.out.println();
+        } 
+
+        System.out.println("NOW IT IS YOUR 2D ARRAY:");
+        for (int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                System.out.print(" ["+arr[j][i]+"] ");
             }
             System.out.println();
         } 
