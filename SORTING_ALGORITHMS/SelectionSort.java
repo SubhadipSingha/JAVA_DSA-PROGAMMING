@@ -16,12 +16,12 @@ public class SelectionSort {
            
             for(int j=i+1; j<arr.length; j++){
                 //swaping
-                 int smallest = i;
-                if(arr[smallest]>arr[j]){
-                    smallest = j;
+                 int big = i;
+                if(arr[big]<arr[j]){
+                    big = j;
                 }
-                int temp = arr[smallest];
-                    arr[smallest] = arr[i];
+                int temp = arr[big];
+                    arr[big] = arr[i];
                     arr[i] = temp;
             }
         }

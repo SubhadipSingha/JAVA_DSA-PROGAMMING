@@ -6,6 +6,188 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ImplementingBinarySearch",
+            "request": "launch",
+            "mainClass": "Searching_Algorithm.ImplementingBinarySearch",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "DoingBinarySearch",
+            "request": "launch",
+            "mainClass": "Searching_Algorithm.DoingBinarySearch",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ImplementngPriorityinqueue",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Queue.ImplementngPriorityinqueue",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Queue.Main",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "PriorityQueue",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Queue.PriorityQueue",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ImplementingQueue",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Queue.ImplementingQueue",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDqueue",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.ArrayDeque.ArrayDqueue",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "InterSectionOfArray",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Hashing.InterSectionOfArray",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "FirstOcurrenceOfString",
+            "request": "launch",
+            "mainClass": "STRINGS.FirstOcurrenceOfString",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "SORTING_ALGORITHMS.QuickSort",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "HashIngMethodHashTable",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Hashing.HashIngMethodHashTable",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "WordPattern",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Hashing.WordPattern",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SpiltAStringInBalancedString",
+            "request": "launch",
+            "mainClass": "STRINGS.SpiltAStringInBalancedString",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "RemoveValueFromALinkedList",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.LinkedList.RemoveValueFromALinkedList",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SortingALinkedList",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.LinkedList.SortingALinkedList",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MergingTwoLinkedList",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.LinkedList.MergingTwoLinkedList",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "PerformingLinkedlist",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.LinkedList.PerformingLinkedlist",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "CalculatingDay",
+            "request": "launch",
+            "mainClass": "STRINGS.CalculatingDay",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "Base7",
+            "request": "launch",
+            "mainClass": "STRINGS.Base7",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "FrequencySort",
+            "request": "launch",
+            "mainClass": "Hashing.FrequencySort",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "CheckCountTrueORFalse",
+            "request": "launch",
+            "mainClass": "STRINGS.CheckCountTrueORFalse",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "PositionOfABall",
+            "request": "launch",
+            "mainClass": "Hashing.PositionOfABall",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "HashIngMethodHashTable",
+            "request": "launch",
+            "mainClass": "Hashing.HashIngMethodHashTable",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SmallestMissingIntegerGreaterThanSequentialPrefixSum",
+            "request": "launch",
+            "mainClass": "ARRAYS.SmallestMissingIntegerGreaterThanSequentialPrefixSum",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "RansomAndMagazin",
+            "request": "launch",
+            "mainClass": "STRINGS.RansomAndMagazin",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "FirstUniqueChar",
+            "request": "launch",
+            "mainClass": "STRINGS.FirstUniqueChar",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
             "name": "AddDigit",
             "request": "launch",
             "mainClass": "STRINGS.AddDigit",

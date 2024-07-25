@@ -9,6 +9,7 @@ public class SubString {
         int n =s.nextInt();
         int i =s.nextInt();
         String name = str.substring(n,i);
+        str.split(name, i)
         System.out.println(str +"-->"+ name);
     }
 }
