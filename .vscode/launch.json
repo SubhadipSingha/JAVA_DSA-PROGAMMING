@@ -6,6 +6,167 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindCommonInString",
+            "request": "launch",
+            "mainClass": "STRINGS.FindCommonInString",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "CalculateGcdOfAnArray",
+            "request": "launch",
+            "mainClass": "RECURSION.CalculateGcdOfAnArray",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "DesignAHashSet",
+            "request": "launch",
+            "mainClass": "DesignAHashSet",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "DeleteTheDuplicateFromTheSet",
+            "request": "launch",
+            "mainClass": "DeleteTheDuplicateFromTheSet",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SortArrayByParityii",
+            "request": "launch",
+            "mainClass": "SORTING_ALGORITHMS.SortArrayByParityii",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SortArrayByParity",
+            "request": "launch",
+            "mainClass": "SORTING_ALGORITHMS.SortArrayByParity",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "InterSectionOfTwoArraysPartTwo",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Hashing.InterSectionOfTwoArraysPartTwo",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "InterSectionOfTwoArraysPartTwo",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Hashing.FRAMEWORK_COLLECTION.Hashing.InterSectionOfTwoArraysPartTwo",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SwapVowelsOfaString",
+            "request": "launch",
+            "mainClass": "STRINGS.SwapVowelsOfaString",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SaveMoneyAtAbank",
+            "request": "launch",
+            "mainClass": "ARRAYS.SaveMoneyAtAbank",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "NumberGoodPairs",
+            "request": "launch",
+            "mainClass": "ARRAYS.NumberGoodPairs",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SetMisMatch",
+            "request": "launch",
+            "mainClass": "ARRAYS.SetMisMatch",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "IshomoficString",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Hashing.IshomoficString",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ArrayToAnyForm",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Generics.ArrayToAnyForm",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SelfDividingNumber",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Generics.SelfDividingNumber",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "TwoOutOfThree",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Generics.TwoOutOfThree",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "CalculateEmptyStepsAfterArrangingCoins",
+            "request": "launch",
+            "mainClass": "ARRAYS.CalculateEmptyStepsAfterArrangingCoins",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "OddNumberInARange",
+            "request": "launch",
+            "mainClass": "ARRAYS.OddNumberInARange",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "OddLengthSubArraySum",
+            "request": "launch",
+            "mainClass": "ARRAYS.OddLengthSubArraySum",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SavingPropertiesIntxtFile",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Properties.SavingPropertiesIntxtFile",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ImplementingLinkedHashMap",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Mapping.ImplementingLinkedHashMap",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ImplementingHashMapping",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Mapping.ImplementingHashMapping",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ImplementingTreeMap",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Mapping.ImplementingTreeMap",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
             "name": "ImplementingBinarySearch",
             "request": "launch",
             "mainClass": "Searching_Algorithm.ImplementingBinarySearch",

@@ -1,10 +1,12 @@
-package FRAMEWORK_COLLECTION;
+package FRAMEWORK_COLLECTION.Generics;
 
+import java.lang.reflect.Array;
 import java.util.ArrayList;
+import java.util.List;
 
 public class Generics {
     public static void main(String[] args) {
-         List<Integer> List = new List<>(5);
+         ArrayList<Integer> List = new ArrayList<>(5);
          List.print();
          List<Double> ListD = new List<>(5.5);
          ListD.print();

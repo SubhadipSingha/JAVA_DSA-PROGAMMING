@@ -1,4 +1,4 @@
-package FRAMEWORK_COLLECTION;
+package FRAMEWORK_COLLECTION.Generics;
 
 
     public class List<Type> {
