@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AddingBinaryNumbers",
+            "request": "launch",
+            "mainClass": "BIT_MANIPULATION.AddingBinaryNumbers",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "CountTheNoOfOnesToGroup",
+            "request": "launch",
+            "mainClass": "ARRAYS.CountTheNoOfOnesToGroup",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicateFromAlinkedList",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.LinkedList.RemoveDuplicateFromAlinkedList",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MergeTwoSortedLinkedLIst",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.LinkedList.MergeTwoSortedLinkedLIst",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "PassengersWhosAgeIs60",
+            "request": "launch",
+            "mainClass": "STRINGS.PassengersWhosAgeIs60",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "AddTwoLinkedList",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.LinkedList.AddTwoLinkedList",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
             "name": "FindCommonInString",
             "request": "launch",
             "mainClass": "STRINGS.FindCommonInString",
