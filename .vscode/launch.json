@@ -6,6 +6,202 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinAvgDifference",
+            "request": "launch",
+            "mainClass": "ARRAYS.MinAvgDifference",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "longestReaptingSubString",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Hashing.longestReaptingSubString",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicatemorethan2",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Hashing.RemoveDuplicatemorethan2",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicate",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Hashing.RemoveDuplicate",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ValidPalindrome",
+            "request": "launch",
+            "mainClass": "STRINGS.ValidPalindrome",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "LengthOfLastWord",
+            "request": "launch",
+            "mainClass": "STRINGS.LengthOfLastWord",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ReverseFirstKcharracters",
+            "request": "launch",
+            "mainClass": "STRINGS.ReverseFirstKcharracters",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "RemoveExtraSpace",
+            "request": "launch",
+            "mainClass": "Regular_Expression.RemoveExtraSpace",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "RemoveallSpecialCharracters",
+            "request": "launch",
+            "mainClass": "Regular_Expression.RemoveallSpecialCharracters",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "CheckDateFormate",
+            "request": "launch",
+            "mainClass": "Regular_Expression.CheckDateFormate",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ChecksHexaDecimalNumber",
+            "request": "launch",
+            "mainClass": "Regular_Expression.ChecksHexaDecimalNumber",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ChecksWhetherBinaryOrNot",
+            "request": "launch",
+            "mainClass": "Regular_Expression.ChecksWhetherBinaryOrNot",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "FindOutValidGmailOrNot",
+            "request": "launch",
+            "mainClass": "Regular_Expression.FindOutValidGmailOrNot",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "GmailFormate",
+            "request": "launch",
+            "mainClass": "Regular_Expression.GmailFormate",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "implementingRE",
+            "request": "launch",
+            "mainClass": "Regular_Expression.implementingRE",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "RegularExpression",
+            "request": "launch",
+            "mainClass": "RegularExpression",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ImplentingRegularExpression",
+            "request": "launch",
+            "mainClass": "ImplentingRegularExpression",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "CalculateSumOfDigits",
+            "request": "launch",
+            "mainClass": "METHODS.CalculateSumOfDigits",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "FindAvgAndRoundOff",
+            "request": "launch",
+            "mainClass": "METHODS.FindAvgAndRoundOff",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "CalculateTheSumOfEven",
+            "request": "launch",
+            "mainClass": "ARRAYS.CalculateTheSumOfEven",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "IntegerTOWords",
+            "request": "launch",
+            "mainClass": "STRINGS.IntegerTOWords",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "PRACTICE.A",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "KthSubStringInTheArray",
+            "request": "launch",
+            "mainClass": "STRINGS.KthSubStringInTheArray",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "RangeSummery",
+            "request": "launch",
+            "mainClass": "ARRAYS.RangeSummery",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "CotainsDuplicateii",
+            "request": "launch",
+            "mainClass": "ARRAYS.CotainsDuplicateii",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ReverseBits",
+            "request": "launch",
+            "mainClass": "BIT_MANIPULATION.ReverseBits",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MaximumSubArray",
+            "request": "launch",
+            "mainClass": "ARRAYS.MaximumSubArray",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "RangeSumOfSortedArraySums",
+            "request": "launch",
+            "mainClass": "ARRAYS.RangeSumOfSortedArraySums",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
             "name": "AddingBinaryNumbers",
             "request": "launch",
             "mainClass": "BIT_MANIPULATION.AddingBinaryNumbers",

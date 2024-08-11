@@ -1,11 +1,9 @@
 package ARRAYS;
 
-import java.lang.reflect.Array;
-
 public class RotateArray {
     public static void rotate(int[] nums, int k) {
         int[] arr = new int[nums.length];
-        Array.sort
+  
         int index = nums.length;
         int idx = 0;
         for(int i=0;i<k+2;i++){
