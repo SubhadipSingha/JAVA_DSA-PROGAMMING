@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LemonedChange",
+            "request": "launch",
+            "mainClass": "ARRAYS.LemonedChange",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "RelativeRankingAccordingToTheScore",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Queue.RelativeRankingAccordingToTheScore",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "RelativeRanking",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Queue.RelativeRanking",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MaxProductOfWords",
+            "request": "launch",
+            "mainClass": "STRINGS.MaxProductOfWords",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SuperPow",
+            "request": "launch",
+            "mainClass": "ARRAYS.SuperPow",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "CovertToHex",
+            "request": "launch",
+            "mainClass": "STRINGS.CovertToHex",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SentenceSimillerity",
+            "request": "launch",
+            "mainClass": "STRINGS.SentenceSimillerity",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ThreeDivisor",
+            "request": "launch",
+            "mainClass": "Placement_Questions.ThreeDivisor",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "EnergyRateCalcuLater",
+            "request": "launch",
+            "mainClass": "Placement_Questions.EnergyRateCalcuLater",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MajorityElement",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Hashing.MajorityElement",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "DoingBitWiseAndOnArange",
+            "request": "launch",
+            "mainClass": "BIT_MANIPULATION.DoingBitWiseAndOnArange",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
             "name": "MinAvgDifference",
             "request": "launch",
             "mainClass": "ARRAYS.MinAvgDifference",

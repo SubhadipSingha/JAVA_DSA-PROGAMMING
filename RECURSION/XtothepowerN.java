@@ -7,7 +7,7 @@ public class XtothepowerN {
         }
          if(n<=0){
 
-            return 1.0/ x;
+            return 1/ x;
 
         }
        
