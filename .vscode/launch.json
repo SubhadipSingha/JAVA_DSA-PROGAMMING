@@ -6,6 +6,153 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CheckIfAStringIaAnAcronymOfWords",
+            "request": "launch",
+            "mainClass": "STRINGS.CheckIfAStringIaAnAcronymOfWords",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "CoutPairsWhoseSumLessThanTarget",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Generics.CoutPairsWhoseSumLessThanTarget",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "FaultyKeyword",
+            "request": "launch",
+            "mainClass": "STRINGS.FaultyKeyword",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "LongerContiguousonesThanZero",
+            "request": "launch",
+            "mainClass": "STRINGS.LongerContiguousonesThanZero",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "RemoveTrailingZeros",
+            "request": "launch",
+            "mainClass": "STRINGS.RemoveTrailingZeros",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ComplementOfnumb",
+            "request": "launch",
+            "mainClass": "BIT_MANIPULATION.ComplementOfnumb",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "VersionCheck",
+            "request": "launch",
+            "mainClass": "STRINGS.VersionCheck",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "FourSumSolve",
+            "request": "launch",
+            "mainClass": "ARRAYS.FourSumSolve",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ThreeSumCloseses",
+            "request": "launch",
+            "mainClass": "ARRAYS.ThreeSumCloseses",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "Threesum",
+            "request": "launch",
+            "mainClass": "ARRAYS.Threesum",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "AssignCookies",
+            "request": "launch",
+            "mainClass": "ARRAYS.AssignCookies",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "StringMatchingInAnArray",
+            "request": "launch",
+            "mainClass": "STRINGS.StringMatchingInAnArray",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "RotateString",
+            "request": "launch",
+            "mainClass": "STRINGS.RotateString",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MakeArrayZeroBySubstractingEqualAmout",
+            "request": "launch",
+            "mainClass": "ARRAYS.MakeArrayZeroBySubstractingEqualAmout",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "NumberOfCommonFactor",
+            "request": "launch",
+            "mainClass": "Placement_Questions.NumberOfCommonFactor",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SmallestEvenMultiple",
+            "request": "launch",
+            "mainClass": "Placement_Questions.SmallestEvenMultiple",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "UglyNumbers",
+            "request": "launch",
+            "mainClass": "ARRAYS.UglyNumbers",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "StringToInteger",
+            "request": "launch",
+            "mainClass": "STRINGS.StringToInteger",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "DistributeCandies",
+            "request": "launch",
+            "mainClass": "ARRAYS.DistributeCandies",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "PasswordChecker",
+            "request": "launch",
+            "mainClass": "Regular_Expression.PasswordChecker",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MaximumDistanceInAArray",
+            "request": "launch",
+            "mainClass": "ARRAYS.MaximumDistanceInAArray",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
             "name": "LemonedChange",
             "request": "launch",
             "mainClass": "ARRAYS.LemonedChange",
