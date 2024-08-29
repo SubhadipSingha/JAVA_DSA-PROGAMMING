@@ -17,6 +17,8 @@ public class ValidParenthese {
                 }else{
                     Valid = false;
                 }
+                // Scanner sc =new Scanner(System.in);
+                //    String k = sc.
             }
             return Valid & n%2==0;
         }

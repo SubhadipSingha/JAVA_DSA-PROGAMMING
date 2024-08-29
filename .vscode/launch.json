@@ -6,6 +6,118 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HashSetForListDuplicacy",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Hashing.HashSetForListDuplicacy",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MobileContact",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Hashing.MobileContact",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListValidIndex",
+            "request": "launch",
+            "mainClass": "ArrayList.ArrayListValidIndex",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "validUserName",
+            "request": "launch",
+            "mainClass": "Regular_Expression.validUserName",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "EndOfFile",
+            "request": "launch",
+            "mainClass": "STRINGS.EndOfFile",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "DataType",
+            "request": "launch",
+            "mainClass": "EXTRAS.DataType",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SumPossible",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.SumPossible",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "FactorialTraillingZero",
+            "request": "launch",
+            "mainClass": "Placement_Questions.FactorialTraillingZero",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "Tribonacci",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.Tribonacci",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SpecialArrayi",
+            "request": "launch",
+            "mainClass": "ARRAYS.SpecialArrayi",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "FindTheMinIndexValueOfAFibonacciNumber",
+            "request": "launch",
+            "mainClass": "RECURSION.FindTheMinIndexValueOfAFibonacciNumber",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciNumber",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.FibonacciNumber",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "StringCompressioniii",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Hashing.StringCompressioniii",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "FindTheNumberOfWinningPlayer",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Hashing.FindTheNumberOfWinningPlayer",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MathSqrtProblem",
+            "request": "launch",
+            "mainClass": "Placement_Questions.MathSqrtProblem",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "BulbSwitcher",
+            "request": "launch",
+            "mainClass": "Placement_Questions.BulbSwitcher",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
             "name": "CheckIfAStringIaAnAcronymOfWords",
             "request": "launch",
             "mainClass": "STRINGS.CheckIfAStringIaAnAcronymOfWords",
