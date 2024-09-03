@@ -2,18 +2,20 @@ package STRINGS;
 
 public class RansomAndMagazin {
     public static boolean canConstruct(String ransomNote, String magazine) {
-      String ans = "";
-      int index  = 0;
-        for(char r: ransomNote.toCharArray()){
-            for (int i= 0 ; i<magazine.length() ;i++) {
-                if(magazine.charAt(i) == r ){
-                 index = i;
-                
-                }
-            }
+        char arr1[]=magazine.toCharArray();
+        char arr2[]=ransomNote.toCharArray();
+        int letters[]=new int[26];
+        for(char c:arr1)
+        {
+              letters[c-'a']++;
         }
-        System.out.println(magazine.substring(0, index));
-        return ransomNote.matches(ans);
+        for(char d:arr2)
+        {
+            letters[d-'a']--;
+            if(letters[d-'a']==-1)
+            return false;
+        }
+return true;
     }
     public static void main(String[] args) {
         System.out.println(canConstruct("aa", "aab"));

@@ -1,15 +1,21 @@
 package STRINGS;
 
+import java.util.HashSet;
+
+
 public class LongestSubstring {
-    public static String CheckOut(String str){
-        String  re ="";
-        String e = str.substring(0);
-        for(int i=0;i<str.length()-1;i++){
-            if(str.substring(i,i+1).equals(e)){
-                 re+=str.charAt(i);
+    public static int CheckOut(String str){
+        HashSet<Character > set  = new HashSet<>();
+        int left = 0  , maxlength = 0  , n = str.length();
+        for (int right = 0; right < n; right++) {
+            while(set.contains(str.charAt(right))){
+                set.remove(str.charAt(right));
+                left++;
             }
+            set.add(str.charAt(right));
+            maxlength = Math.max(maxlength , right - left + 1);
         }
-        return re;
+        return maxlength;
 
     }
     public static void main(String[] args) {

@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FinalArrayStateAfterKMultiplicationOperationsI",
+            "request": "launch",
+            "mainClass": "ARRAYS.FinalArrayStateAfterKMultiplicationOperationsI",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MultiplyStrings",
+            "request": "launch",
+            "mainClass": "STRINGS.MultiplyStrings",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "FirstMissingPositive",
+            "request": "launch",
+            "mainClass": "ARRAYS.FirstMissingPositive",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "LuckyNumbersinaMatrix",
+            "request": "launch",
+            "mainClass": "ARRAYS.LuckyNumbersinaMatrix",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SumofDigitsofStringAfterConvert",
+            "request": "launch",
+            "mainClass": "STRINGS.SumofDigitsofStringAfterConvert",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "CapitalizetheTitle",
+            "request": "launch",
+            "mainClass": "STRINGS.CapitalizetheTitle",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "FindTheDivisibilityArrayofaString",
+            "request": "launch",
+            "mainClass": "STRINGS.FindTheDivisibilityArrayofaString",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "KthDistinctStringinanArray",
+            "request": "launch",
+            "mainClass": "STRINGS.KthDistinctStringinanArray",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "FindtheStudentthatWillReplacetheChalk",
+            "request": "launch",
+            "mainClass": "ARRAYS.FindtheStudentthatWillReplacetheChalk",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "leastkDistanceBetween1",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Hashing.leastkDistanceBetween1",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MaxDifferenceYouCanGetFromChanginganInteger",
+            "request": "launch",
+            "mainClass": "FUNCTIONS.MaxDifferenceYouCanGetFromChanginganInteger",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "KidsWithGreatestCandies",
+            "request": "launch",
+            "mainClass": "ARRAYS.KidsWithGreatestCandies",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ConvertingA1DArrayTo2DArray",
+            "request": "launch",
+            "mainClass": "ARRAYS.ConvertingA1DArrayTo2DArray",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ImplementingPriorityQueueTOServerTheStudents",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Queue.ImplementingPriorityQueueTOServerTheStudents",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SortTheNameAccordingtotheCGPA",
+            "request": "launch",
+            "mainClass": "STRINGS.SortTheNameAccordingtotheCGPA",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
             "name": "HashSetForListDuplicacy",
             "request": "launch",
             "mainClass": "FRAMEWORK_COLLECTION.Hashing.HashSetForListDuplicacy",

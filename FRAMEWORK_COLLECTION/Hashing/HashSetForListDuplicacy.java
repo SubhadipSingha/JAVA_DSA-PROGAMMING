@@ -7,16 +7,19 @@ public class HashSetForListDuplicacy {
   
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
-        HashSet<String> set = new HashSet<>() ;
-
+        
         int n = sc.nextInt() ;
-        StringBuilder sb = new StringBuilder();
+        sc.nextLine();
+        HashSet<String> set = new HashSet<>() ;
         for (int i = 0; i < n; i++) {
-           String s = sc.next();
+           String s1 = sc.next();
+           String s2 = sc.next();
+           sc.nextLine();
+           String s = s1+" "+s2;
            set.add(s);
-           sb.append(set.size()).append("\n");
+          System.out.println(set.size());
         }
-     System.out.println(sb.toString());
+      sc.close();
       
     }
 }

@@ -1,5 +1,9 @@
 package STRINGS;
 
+import java.util.HashMap;
+import java.util.Objects;
+import java.util.Stack;
+
 public class ValidParenthese {
     
         public static boolean isValid(String s) {
@@ -22,6 +26,29 @@ public class ValidParenthese {
             }
             return Valid & n%2==0;
         }
+
+
+
+    public static boolean isValidUsingMapNStack(String s){
+
+     Stack<Character> st = new Stack<>();
+     HashMap<Character , Character> map = new HashMap<>();
+     map.put(')' , '(');
+     map.put('}' , '{');
+     map.put(']' , '[');
+     for(char c : s.toCharArray()){
+        if(map.containsValue(c)){
+            st.push(c);
+        }else if( map.containsKey(c)){
+            if(st.isEmpty() || !Objects.equals(map.get(c), st.pop())){
+                return false;
+            }
+        }
+     }
+     return st.isEmpty();
+
+    }
+
         public static void main(String[] args) {
             System.out.println(isValid("()")); // True
             System.out.println(isValid("()[]{}")); // True
