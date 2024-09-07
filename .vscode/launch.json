@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindtheNumberofGoodPairsII",
+            "request": "launch",
+            "mainClass": "ARRAYS.FindtheNumberofGoodPairsII",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "CountPairsThatFormaCompleteDayI",
+            "request": "launch",
+            "mainClass": "ARRAYS.CountPairsThatFormaCompleteDayI",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ReverseWordsinaString",
+            "request": "launch",
+            "mainClass": "STRINGS.ReverseWordsinaString",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SingleNumberII",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Hashing.SingleNumberII",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "CountAlmostEqualPairsI",
+            "request": "launch",
+            "mainClass": "ARRAYS.CountAlmostEqualPairsI",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MinimumOperationstoMakeMedianofArrayEqualtoK",
+            "request": "launch",
+            "mainClass": "ARRAYS.MinimumOperationstoMakeMedianofArrayEqualtoK",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MaximumPrimeDifference",
+            "request": "launch",
+            "mainClass": "ARRAYS.MaximumPrimeDifference",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "f",
+            "request": "launch",
+            "mainClass": "Placement_Questions.f",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "LetterCombinationsofaPhoneNumber",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Hashing.LetterCombinationsofaPhoneNumber",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "FindMissingObservations",
+            "request": "launch",
+            "mainClass": "ARRAYS.FindMissingObservations",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "AverageWaitingTime",
+            "request": "launch",
+            "mainClass": "ARRAYS.AverageWaitingTime",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
             "name": "FinalArrayStateAfterKMultiplicationOperationsI",
             "request": "launch",
             "mainClass": "ARRAYS.FinalArrayStateAfterKMultiplicationOperationsI",
