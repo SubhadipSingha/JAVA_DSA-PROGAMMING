@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ClearDigit",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Stack.ClearDigit",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "FindtheIntegerAddedtoArrayII",
+            "request": "launch",
+            "mainClass": "ARRAYS.FindtheIntegerAddedtoArrayII",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MinimumArrayEnd",
+            "request": "launch",
+            "mainClass": "ARRAYS.MinimumArrayEnd",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
             "name": "FindtheNumberofGoodPairsII",
             "request": "launch",
             "mainClass": "ARRAYS.FindtheNumberofGoodPairsII",
