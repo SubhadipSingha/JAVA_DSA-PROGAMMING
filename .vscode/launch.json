@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountSubstringsStartingandEndingwithGivenCharacter",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Hashing.CountSubstringsStartingandEndingwithGivenCharacter",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "XORQueriesofaSubarray",
+            "request": "launch",
+            "mainClass": "ARRAYS.XORQueriesofaSubarray",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "WordSearch",
+            "request": "launch",
+            "mainClass": "STRINGS.WordSearch",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "LargestNumber",
+            "request": "launch",
+            "mainClass": "STRINGS.LargestNumber",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "CounttheNumberofConsistentStrings",
+            "request": "launch",
+            "mainClass": "STRINGS.CounttheNumberofConsistentStrings",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "TeacherStudentWhiteBoardAccess",
+            "request": "launch",
+            "mainClass": "MultiTharding.TeacherStudentWhiteBoardAccess",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "InterThreadingCompunication",
+            "request": "launch",
+            "mainClass": "MultiTharding.InterThreadingCompunication",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "WordBreak",
+            "request": "launch",
+            "mainClass": "STRINGS.WordBreak",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MinimumBitFlipstoConvertNumber",
+            "request": "launch",
+            "mainClass": "BIT_MANIPULATION.MinimumBitFlipstoConvertNumber",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MinimumBitFlipstoConvertNumber",
+            "request": "launch",
+            "mainClass": "STRINGS.MinimumBitFlipstoConvertNumber",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ShortestSubarrytobeRemovedtoMakeArraySorted",
+            "request": "launch",
+            "mainClass": "ARRAYS.ShortestSubarrytobeRemovedtoMakeArraySorted",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ATMManageMentSystem",
+            "request": "launch",
+            "mainClass": "MultiTharding.ATMManageMentSystem",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MultiThread",
+            "request": "launch",
+            "mainClass": "MultiTharding.MultiThread",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
             "name": "ClearDigit",
             "request": "launch",
             "mainClass": "FRAMEWORK_COLLECTION.Stack.ClearDigit",

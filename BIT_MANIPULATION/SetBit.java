@@ -11,6 +11,6 @@ public class SetBit {
         //step 2
         int not = ~(bitmask);
         int newnumber = (not | n);
-        System.out.println(Integer.toBinaryString(newnumber));
+        System.out.println(newnumber);
     }
 }
