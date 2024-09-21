@@ -6,6 +6,174 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CustomerDetailsOrObjects",
+            "request": "launch",
+            "mainClass": "CustomerDetailsOrObjects",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "StoringFloatNumbersInAFile",
+            "request": "launch",
+            "mainClass": "JavaIOStream.StoringFloatNumbersInAFile",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ProducerAndCosumerUsingPipelineStream",
+            "request": "launch",
+            "mainClass": "JavaIOStream.ProducerAndCosumerUsingPipelineStream",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "CopyDataFromTwoFIlesToSingleFile",
+            "request": "launch",
+            "mainClass": "JavaIOStream.CopyDataFromTwoFIlesToSingleFile",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "InputFromAfileTOOutPutinAFile",
+            "request": "launch",
+            "mainClass": "JavaIOStream.InputFromAfileTOOutPutinAFile",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MaximumMultiplicationScore",
+            "request": "launch",
+            "mainClass": "ARRAYS.MaximumMultiplicationScore",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MaximumProductSubarray",
+            "request": "launch",
+            "mainClass": "ARRAYS.MaximumProductSubarray",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "FilewriteUsingIO",
+            "request": "launch",
+            "mainClass": "JavaIOStream.FilewriteUsingIO",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "InsertInterval",
+            "request": "launch",
+            "mainClass": "ARRAYS.InsertInterval",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "DifferentWaystoAddParentheses",
+            "request": "launch",
+            "mainClass": "RECURSION.DifferentWaystoAddParentheses",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "LowestNumber",
+            "request": "launch",
+            "mainClass": "STRINGS.LowestNumber",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "PerfectSquares",
+            "request": "launch",
+            "mainClass": "FUNCTIONS.PerfectSquares",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "UncommonWordsfromTwoSentences",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Hashing.UncommonWordsfromTwoSentences",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "MinimumTimeDifference",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Generics.MinimumTimeDifference",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SingleNumberIII",
+            "request": "launch",
+            "mainClass": "ARRAYS.SingleNumberIII",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "SortColors",
+            "request": "launch",
+            "mainClass": "ARRAYS.SortColors",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "EditDistance",
+            "request": "launch",
+            "mainClass": "STRINGS.EditDistance",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "OnesandZeroes",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Hashing.OnesandZeroes",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "GrayCode",
+            "request": "launch",
+            "mainClass": "BIT_MANIPULATION.GrayCode",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "CountAndSay",
+            "request": "launch",
+            "mainClass": "FRAMEWORK_COLLECTION.Hashing.CountAndSay",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ReachEndofArrayWithMaxScore",
+            "request": "launch",
+            "mainClass": "ARRAYS.ReachEndofArrayWithMaxScore",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "FindtheLongestSubstringContainingVowelsinEvenCounts",
+            "request": "launch",
+            "mainClass": "STRINGS.FindtheLongestSubstringContainingVowelsinEvenCounts",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "DecodeWays",
+            "request": "launch",
+            "mainClass": "STRINGS.DecodeWays",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "LongestSubarrayWithMaximumBitwiseAND",
+            "request": "launch",
+            "mainClass": "ARRAYS.LongestSubarrayWithMaximumBitwiseAND",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
             "name": "CountSubstringsStartingandEndingwithGivenCharacter",
             "request": "launch",
             "mainClass": "FRAMEWORK_COLLECTION.Hashing.CountSubstringsStartingandEndingwithGivenCharacter",

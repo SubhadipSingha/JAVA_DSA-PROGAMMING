@@ -32,6 +32,6 @@ public class UglyNumbers {
     }
     public static void main(String[] args) {
         int num[] = {1};
-        System.out.println(nthUglyNumber(11));
+        System.out.println(nthUglyNumber(1));
     }
 }

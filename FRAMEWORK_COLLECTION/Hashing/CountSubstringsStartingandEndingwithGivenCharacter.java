@@ -6,16 +6,14 @@ public class CountSubstringsStartingandEndingwithGivenCharacter {
 
      public static long countSubstrings(String s, char c) {
         HashMap<Character , Integer> map = new HashMap<>();
-        long ans = 2;
-        for(char v : s.toCharArray() ){
-            map.put(v , map.getOrDefault(c , 0)+1);
+        long ans , v= 0;
+        for(char k : s.toCharArray() ){
+            map.put(k , map.getOrDefault(c , 0)+1);
+              if(k == c){
+                v = map.get(k);
+                }
         }
-        for (char k : map.keySet()) {
-           if( k == c){
-             long v = map.get(k);
-              ans *= v;
-            }
-        }
+        ans = v * (v+1)/2 ;
         return ans;
     }
 

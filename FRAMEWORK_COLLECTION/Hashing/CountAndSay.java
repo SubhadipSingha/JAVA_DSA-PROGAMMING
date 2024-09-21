@@ -1,13 +1,19 @@
 package FRAMEWORK_COLLECTION.Hashing;
 
+import java.util.*;
+
 public class CountAndSay {
     public static String CountTheNumber(int n){
         String ans = "";
-        for
+        HashMap<Integer , Integer> map = new HashMap<>();
+        while( n > 0){
+          n--;
+
+           map.put(1,map.getOrDefault(1, 0)+1);
+           ans+=map.get(1);
+        }
         
-        
-        
-        return "";
+        return ans;
     }
     
 
