@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExtraCharInastring",
+            "request": "launch",
+            "mainClass": "ExtraCharInastring",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "ExtraCharactersinaString",
+            "request": "launch",
+            "mainClass": "ExtraCharactersinaString",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "DateCallls",
+            "request": "launch",
+            "mainClass": "EXTRAS.DateCallls",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
+            "name": "Date",
+            "request": "launch",
+            "mainClass": "EXTRAS.Date",
+            "projectName": "java DSA_664a294c"
+        },
+        {
+            "type": "java",
             "name": "CustomerDetailsOrObjects",
             "request": "launch",
             "mainClass": "CustomerDetailsOrObjects",
